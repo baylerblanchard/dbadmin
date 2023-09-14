@@ -1,6 +1,6 @@
 DO $$
 DECLARE
-    input_letter CHAR(1) := 'A'; -- Replace with the letter you want to map
+    input_letter CHAR(1) := 'W'; -- Replace with the letter you want to map
     digit CHAR(1);
 BEGIN
     IF input_letter = '1' THEN
